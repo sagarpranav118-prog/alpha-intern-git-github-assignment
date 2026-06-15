@@ -83,3 +83,13 @@ git tag
 Output:
 
 day2-v1
+
+## Git Reflog
+
+Command Used:
+
+git reflog
+
+Why is reflog useful?
+
+Git reflog records all changes made to HEAD and branch references. It helps recover lost commits, undo mistakes, and restore previous states of a repository even when commits are no longer visible in the branch history.
