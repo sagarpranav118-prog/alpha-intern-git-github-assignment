@@ -1,0 +1,3 @@
+Day 2 Rebase Practice
+
+This file was created for learning git rebase.
