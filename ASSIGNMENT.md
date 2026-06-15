@@ -93,3 +93,33 @@ git reflog
 Why is reflog useful?
 
 Git reflog records all changes made to HEAD and branch references. It helps recover lost commits, undo mistakes, and restore previous states of a repository even when commits are no longer visible in the branch history.
+
+## Upstream Remote
+
+Command Used:
+
+git remote add upstream https://github.com/octocat/Hello-World.git
+
+---
+
+## Git Fetch vs Git Pull
+
+Git Fetch:
+Downloads changes from a remote repository without merging them into the current branch.
+
+Git Pull:
+Downloads changes from a remote repository and automatically merges them into the current branch.
+
+---
+
+## Open Source Contribution Flow
+
+1. Fork the repository.
+2. Clone the forked repository.
+3. Create a new branch.
+4. Make changes.
+5. Commit the changes.
+6. Push the branch.
+7. Create a Pull Request.
+8. Review and discuss changes.
+9. Merge the Pull Request.
