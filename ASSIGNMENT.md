@@ -32,3 +32,9 @@ git config --global user.email "sagarpranav118@gmail.com"
 - Cloud-based hosting platform
 - Stores Git repositories online
 - Enables collaboration among developers
+
+## Assignment Progress
+
+- Git installed successfully
+- Repository created successfully
+- First commit completed
