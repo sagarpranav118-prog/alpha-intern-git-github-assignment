@@ -8,4 +8,4 @@ Git is a distributed version control system used to track changes in files and s
 
 GitHub is a cloud-based platform that hosts Git repositories. It allows developers to store, manage, and collaborate on projects online using Git.
 
-This line was modified from the main branch.
+This line was modified from both the main branch and conflict-practice branch and the conflict was resolved manually.
