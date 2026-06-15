@@ -59,7 +59,8 @@ Output of:
 
 git log --oneline
 
-91e716a (HEAD -> main) Resolved merge conflict in README
+832c966 (HEAD -> main) Completed Day 1 assignment documentation
+91e716a Resolved merge conflict in README
 5b73097 Modified README on main branch
 e4a7d99 (conflict-practice) Modified README on conflict branch
 b094e8b (feature/day-1-renamed) Added day 1 practice notes
