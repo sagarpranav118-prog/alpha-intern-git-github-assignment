@@ -73,3 +73,13 @@ b26a724 Updated assignment progress
 1. feature/day-1-practice
 2. feature/day-1-renamed
 3. conflict-practice
+
+## Tags
+
+Command Used:
+
+git tag
+
+Output:
+
+day2-v1
